@@ -11,8 +11,8 @@ Todo list of WTF Academy StarkNet during StarkNet Building Hacker House Tel Aviv
 
 ## Todo and Progress
 
-### 1. Tutorials
-Minimal tutorials on StarkNet, assuming the learners have Ethereum development experience.
+### 1. Tutortials
+Minimal tutorials on StarkNet, assuming the learners have Ethereum develop experience.
 - Account Abstraction: @ocandocrypto
 - Cairo: @hasselalcala [Draft] [Quiz]
 - Tooling: @hasselalcala [Draft]
@@ -28,15 +28,15 @@ Build a website for WTF StarkWare based on Docusaurus.
   - certificate page
 
 ### 3. Backend
-  - quiz backend @stoneworld
-  - certificate backend
+  - quiz backend
+  - certificate backend @reborn-sama('huashui' @stoneworld do most things)
 
 ### 4. Contract 
 Build a SBT contract for certificates on starknet.
   - certificate contract
 
 ### 5. Design
-  - web design ([Figma](https://www.figma.com/file/dZiNEsfG5Nkc1uQFy3agEk)): [@tankxu](https://github.com/tankxu)
+  - web design @Tank [Draft]
   - logo design
   
 ### 6. Project Management
@@ -47,7 +47,7 @@ Build a SBT contract for certificates on starknet.
 We will manage the project on Github (yes, this repo), so you can see all the tasks and contributors here.
 
 1. Read [Project Brief](https://onlydust.notion.site/WTF-Academy-StarkNet-cec45bfe02694dbc895eb42e8f3f1c31)
-2. Contact project lead 0xAA's Telegram (@not0xAA) or [Twitter](https://twitter.com/0xAA_Science), briefly introduce yourself and which part you want to contribute to.
+2. Contact project lead 0xAA's Telegram (@not0xAA) or [Twitter](https://twitter.com/0xAA_Science), briefly introduct yourself and which part you want contribute.
 3. You can create a PR update your github ID after corresponding tasks, or I will do it for you.
 
 ## Website
